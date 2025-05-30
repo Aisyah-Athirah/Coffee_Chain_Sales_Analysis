@@ -48,5 +48,8 @@ The dashboard is designed to answer specific questions posed by different stakeh
 
 - **#Iterate Mindset** Multiple iterations based on peer and mentor feedback to refine visuals, layout, and interactivity
 
+
+
 Feedback 📬 
+
 I welcome any feedback or suggestions for improvement. Please feel free to leave comments or connect with me on LinkedIn.
